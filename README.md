@@ -17,7 +17,9 @@ Ich entwickle mit **C# und .NET 9** ein Webtool, in dem sich Schüler:innen selb
 - **Freigabe:** Die Lehrkraft klickt auf „Schüler informieren“. Erst dann sieht die Schüler:in beide Einschätzungen.
 - **Design:** modern und auch am Handy nutzbar
 
-## Warum kein IServ-SSO?
+## Easter Egg *Fake* Cloudflare Error Page
+
+## Warum kein IServ-SSO
 
 Eigentlich sollte die Anmeldung über IServ-SSO laufen. Dafür fehlt mir aber der Zugriff auf die IServ-Administration. Deshalb baue ich einen eigenen Login und halte ihn austauschbar, damit SSO später nachgerüstet werden kann.
 
