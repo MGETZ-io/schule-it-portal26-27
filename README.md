@@ -29,3 +29,7 @@ Eigentlich sollte die Anmeldung über IServ-SSO laufen. Dafür fehlt mir aber de
 | Datenbank | SQLite mit Entity Framework Core |
 | Login und Rollen | ASP.NET Core Identity |
 | Live-Ansicht | SignalR |
+
+## Logo Idee
+
+https://git.hosting.hustensaft.org/Max/IT-FVSS-26-27/raw/branch/main/logo.png
