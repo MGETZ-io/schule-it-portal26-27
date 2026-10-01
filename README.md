@@ -3,6 +3,9 @@
 **Informatik · Maxim · Jahrgang 10**
 
 ---
+## SSO via PocketID
+Nutzbar ist https://accounts.nameserver-lab.de
+
 
 ## Was habe ich vor?
 
