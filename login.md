@@ -101,7 +101,7 @@ Dort kann sie zum Beispiel:
 
 ### 🔒 Technische Umsetzung
 
-Der Login wird mit **ASP.NET Core Identity** umgesetzt.
+Der Login wird mit **ASP.NET Core Identity** umgesetzt oder über PocketID SSO.
 
 Die Benutzer werden in der SQLite-Datenbank gespeichert. Das Passwort wird dabei **nicht im Klartext gespeichert**, sondern von ASP.NET Core Identity sicher gehasht.
 
